@@ -1,0 +1,78 @@
+.mainContainer {
+  background-color: black;
+  width: 80%;
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.topBar {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid lightgrey;
+}
+
+.options {
+  padding-right: 20px;
+}
+
+.logo {
+  padding-left: 20px;
+}
+
+.account {
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid lightgrey;
+}
+
+.PP {
+  padding-left: 20px;
+}
+
+.dots {
+  padding-right: 20px;
+}
+
+.post {
+  display: flex;
+  justify-content: center;
+}
+
+.likeBar {
+  color: white;
+  border: 1px solid lightgrey;
+  display: flex;
+  justify-content: space-between;
+}
+
+.options1 {
+  padding-left: 20px;
+}
+
+.options2 {
+  padding-right: 20px;
+}
+
+.likes {
+  color: white;
+  padding-left: 20px;
+}
+
+.caption {
+  color: white;
+  display: flex;
+  padding-left: 20px;
+}
+
+.grey {
+  color: grey;
+}
+
+.comments {
+  padding-left: 20px;
+  padding-bottom: 10px;
+}
