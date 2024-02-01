@@ -104,3 +104,8 @@ body {
 .grid-item img {
     width: 10em;
 }
+
+.grid-item:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+}
